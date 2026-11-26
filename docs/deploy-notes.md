@@ -5,3 +5,4 @@
 - Heartbeat timeout: 120 seconds
 - Health check path: /health
 - Health check path: /health
+- Allowed cities: pune, mumbai, delhi
